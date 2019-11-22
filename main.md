@@ -1,4 +1,4 @@
-# Some heading
+# The Legend of Ethanicus, Courier of the Stars
 
 ## Introduction
 
