@@ -8,7 +8,7 @@ I've been running a Choose Your Own Adventure-style game on Discord.
 
 Things I wrote are usually in text blocks; responses from the audience are in italics.
 
-Many thanks to everyone who's participated: Bean, ncrecc, Akumu, I Don't Know, 鏡　雨, Panda,
+Many thanks to everyone who's participated: Bean, ncrecc, Akumu, I Don't Know, 鏡　雨, Panda, and anyone else I've overlooked.
 
 ## Lore
 
@@ -16,28 +16,27 @@ Many thanks to everyone who's participated: Bean, ncrecc, Akumu, I Don't Know, �
 
 #### Ethanicus (the player character)
 
+Male, human, behavior driven by whoever happens to be in chat at that moment.  Works as a courier/taxi/space trucker ("Han Solo without the smuggling" is my usual description).
+
 #### Vinnie
+
+Ethanicus's best friend and co-pilot.  He's a Ruamokan (a type of rock alien).  Seems easy-going?
 
 #### Big Susan Valdman
 
-#### Nin'in'in (Crin'tiki holy excavator)
+A human organized crime figure in the sector that contains Crin'tik, Kanaloa, and a lot of the action so far.  Superficially sweet.  Getting out of her debt was a big motivator in Chapter 1: The Crin'tiki Gambit, or: Fliit's Big Night.
 
 #### Fliit
 
+A member of the Synod of 36, the governing body of Crin'tik's The Church of the Crying God.  He frequents underground coffee speakeasies, in defiance of the Church's teachings, as seen in Chapter 1: The Crin'tiki Gambit, or: Fliit's Big Night.
+
 #### Teenu
 
-#### K'Sokher
+Vinnie's ex-wife.  She's a Zervian (a type of ice alien).  A tenured professor of philosophy at North Zerv University.  Featured in Chapter 3: The Case of the Misappropriated Funds.
 
-#### Anttu
+#### Jimbo
 
-#### Maguaq
-
-#### Killa
-
-#### Johari
-
-Vinnie's Zervian ex-wife.  A tenured professor of philosophy at North Zerv University.
-
+Ethanicus's estranged father, an arms dealer.  Introduced in Chapter 4: The Cat's In The Cradle.
 
 ### Aliens
 
@@ -51,33 +50,21 @@ Rock monsters.  Have more sensitive hearing than humans and less affected by amb
 
 #### Pre-Zervians
 
-Cat people.  Extinct.
+Cat people.  Apparently they wiped themselves out in a war thousands of years ago.  Had advanced robot technology.
 
 #### Zervians
 
-Ice monsters.
-
-
-### Locations
-
-
-
-#### Kanaloa
-
-#### Crin'tik
-
-#### Zervin VI
-
-#### Zervin III, AKA Planet Zerv
-
-#### The Wala system
-
+Ice elementals.
 
 ### Factions
 
 #### The Church of the Crying God
 
+A Crin'tiki church, dedicated to spreading the True Message of the Crying God.  It was founded by Vav'v after the True Message was imparted to him directly.  Governed by the Synod of 36.  Currently dealing with a doctrinal dispute between Postmessagarians (who believe the Message was created at the moment of Impartation) and Antemessagarians (who believe the Message has always been embedded in the universe); Postmessagarians control the Synod, but there are some radical Antemessagarians advocating for a schism or worse.
+
 #### Federated Space
+
+Some sort of interplanetary governing body.  Has a President, a Parliament, a Patrol (combination of military and law enforcement), and an Education Council.  They're probably more like the United Nations than the United States, in terms of autonomy of its constituent planets?
 
 #### Walanese groups
 
@@ -278,7 +265,7 @@ _[C]_
 
 "A few millennia ago, there was a civilization here--best name we have for them is just the Pre-Zervinians.  Best anyone can figure, they went to war with themselves, and one of their doomsday weapons altered the climate, freezing the planet and killing them all off.  A sad cautionary tale of the futility of war, right?"  Vinnie nods.
 
-"Anyway, Xenoarchaeologists have excavated what they could, but they mostly stuck to the relatively temperate equatorial region--they know there are big finds in the north and south, but the ice sheets are too thick to penetrate, at least with your normal xenoarchaeology grants.  They figure they'll wait another few hundred years for the planet to warm some more.  It's not like the ruins are going anywhere.  That guard from Big Susan's, though--"
+"Anyway, xenoarchaeologists have excavated what they could, but they mostly stuck to the relatively temperate equatorial region--they know there are big finds in the north and south, but the ice sheets are too thick to penetrate, at least with your normal xenoarchaeology grants.  They figure they'll wait another few hundred years for the planet to warm some more.  It's not like the ruins are going anywhere.  That guard from Big Susan's, though--"
 
 "Diana."
 
@@ -286,7 +273,7 @@ _[C]_
 
 "And how do we get through the ice?  We can't afford a big icebreaker."
 
-"If Kate's data is right, we shouldn't need it.  It's think enough that we can just hover the ship directly over the ice for a few hours, and the heat from the engines should be enough to break through."
+"If Kate's data is right, we shouldn't need it.  It's thin enough that we can just hover the ship directly over the ice for a few hours, and the heat from the engines should be enough to break through."
 
 "And the fuel costs are going to be...?"
 
