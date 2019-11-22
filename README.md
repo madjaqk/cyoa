@@ -70,6 +70,9 @@ Some sort of interplanetary governing body.  Has a President, a Parliament, a Pa
 
 The Walanese government, the Walanese emperor-in-exile, the Walanese Liberation Army, and The People's Republic of Wala are fighting a vicious four-war war.  "You're pretty sure one is a reasonable group of activists fighting off encroaching authoritarianism (but occasionally too violently), two are jack-booted thugs (which still raise legitimate issues about the ideology of their opposition), and the last is either a theocratic death cult or burn-it-all-down radical anarchists, but you can never remember which group is which."
 
+#### DUK
+
+An interstellar mining conglomerate with a number of operations, and as such a good deal of power, in the sector.  More formally, Dittberner-Underhill-Kruger.  Less formally, either The Duke or The Duck, depending on the speaker's level of respect.  
 
 ## Transcript
 
