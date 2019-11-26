@@ -1,9 +1,12 @@
+#!/usr/bin/python
+# coding=utf-8
+
 import re
 
 CHAPTER_RE = re.compile(r"### Chapter (?P<num>\d+):")
 OTHER_HEADING = re.compile(r"#{2,} (?P<heading>\w+)")
 
-anchor_with_link = " <a href='#{0}' name='{0}'>:link:</a>"
+anchor_with_link = " <a href='#{0}' name='{0}'>🔗</a>"
 
 with open("README.md") as f:
     lines = f.read()

@@ -1,6 +1,6 @@
 # The Legend of Ethanicus, Courier of the Stars  
   
-## Introduction <a href='#introduction' name='introduction'>:link:</a>  
+## Introduction <a href='#introduction' name='introduction'>🔗</a>  
   
 I've been running a Choose Your Own Adventure-style game on Discord.  
   
@@ -10,73 +10,73 @@ Things I wrote are usually in bold; responses from the audience are in italics o
   
 Many thanks to everyone who's participated: Bean, ncrecc, Akumu, I Don't Know, 鏡　雨, Panda, and anyone else I've overlooked.  
   
-## Lore <a href='#lore' name='lore'>:link:</a>  
+## Lore <a href='#lore' name='lore'>🔗</a>  
   
-### Characters <a href='#characters' name='characters'>:link:</a>  
+### Characters <a href='#characters' name='characters'>🔗</a>  
   
-#### Ethanicus (the player character) <a href='#ethanicus' name='ethanicus'>:link:</a>  
+#### Ethanicus (the player character) <a href='#ethanicus' name='ethanicus'>🔗</a>  
   
 Male, human, behavior driven by whoever happens to be in chat at that moment.  Works as a courier/taxi/space trucker ("Han Solo without the smuggling" is my usual description).  
   
-#### Vinnie <a href='#vinnie' name='vinnie'>:link:</a>  
+#### Vinnie <a href='#vinnie' name='vinnie'>🔗</a>  
   
 Ethanicus's best friend and co-pilot.  He's a Ruamokan (a type of rock alien).  Seems easy-going?  
   
-#### Big Susan Valdman <a href='#big-susan' name='big'>:link:</a>  
+#### Big Susan Valdman <a href='#big-susan' name='big'>🔗</a>  
   
 A human organized crime figure in the sector that contains Crin'tik, Kanaloa, and a lot of the action so far.  Superficially sweet.  Getting out of her debt was a big motivator in [Chapter 1: The Crin'tiki Gambit, or: Fliit's Big Night](#chapter-1).  
   
-#### Fliit <a href='#fliit' name='fliit'>:link:</a>  
+#### Fliit <a href='#fliit' name='fliit'>🔗</a>  
   
 A member of the Synod of 36, the governing body of Crin'tik's The Church of the Crying God.  He frequents underground coffee speakeasies, in defiance of the Church's teachings, as seen in [Chapter 1: The Crin'tiki Gambit, or: Fliit's Big Night](#chapter-1).  
   
-#### Teenu <a href='#teenu' name='teenu'>:link:</a>  
+#### Teenu <a href='#teenu' name='teenu'>🔗</a>  
   
 Vinnie's ex-wife.  She's a Zervian (a type of ice alien).  A tenured professor of philosophy at North Zerv University.  Featured in [Chapter 3: The Case of the Misappropriated Funds](#chapter-3).  
   
-#### Jimbo <a href='#jimbo' name='jimbo'>:link:</a>  
+#### Jimbo <a href='#jimbo' name='jimbo'>🔗</a>  
   
 Ethanicus's estranged father, an arms dealer.  Introduced in [Chapter 4: The Cat's In The Cradle](#chapter-4).  
   
-### Aliens <a href='#aliens' name='aliens'>:link:</a>  
+### Aliens <a href='#aliens' name='aliens'>🔗</a>  
   
-#### Crin'tiki <a href='#crintiki' name='crintiki'>:link:</a>  
+#### Crin'tiki <a href='#crintiki' name='crintiki'>🔗</a>  
   
 I don't think I ever said this explicitly, but they're insectoid.  Coffee makes their mandibles glow and seems to have a vague psychoactive effect (at least, it seems to get them buzzed rather than hyper).  
   
-#### Ruamokans <a href='#ruamokans' name='ruamokans'>:link:</a>  
+#### Ruamokans <a href='#ruamokans' name='ruamokans'>🔗</a>  
   
 Rock monsters.  Have more sensitive hearing than humans and less affected by ambient cold.  
   
-#### Pre-Zervians <a href='#pre-zervians' name='pre-zervians'>:link:</a>  
+#### Pre-Zervians <a href='#pre-zervians' name='pre-zervians'>🔗</a>  
   
 Cat people.  Apparently they wiped themselves out in a war thousands of years ago.  Had advanced robot technology.  
   
-#### Zervians <a href='#zervians' name='zervians'>:link:</a>  
+#### Zervians <a href='#zervians' name='zervians'>🔗</a>  
   
 Ice elementals.  
   
-### Factions <a href='#factions' name='factions'>:link:</a>  
+### Factions <a href='#factions' name='factions'>🔗</a>  
   
-#### The Church of the Crying God <a href='#the-church-of-the-crying-god' name='the-church-of-the-crying-god'>:link:</a>  
+#### The Church of the Crying God <a href='#the-church-of-the-crying-god' name='the-church-of-the-crying-god'>🔗</a>  
   
 A Crin'tiki church, dedicated to spreading the True Message of the Crying God.  It was founded by Vav'v after the True Message was imparted to him directly.  Governed by the Synod of 36.  Currently dealing with a doctrinal dispute between Postmessagarians (who believe the Message was created at the moment of Impartation) and Antemessagarians (who believe the Message has always been embedded in the universe); Postmessagarians control the Synod, but there are some radical Antemessagarians advocating for a schism or worse.  
   
-#### Federated Space <a href='#federated-space' name='federated-space'>:link:</a>  
+#### Federated Space <a href='#federated-space' name='federated-space'>🔗</a>  
   
 Some sort of interplanetary governing body.  Has a President, a Parliament, a Patrol (combination of military and law enforcement), and an Education Council.  They're probably more like the United Nations than the United States, in terms of autonomy of its constituent planets?  
   
-#### Walanese groups <a href='#walanese-groups' name='walanese-groups'>:link:</a>  
+#### Walanese groups <a href='#walanese-groups' name='walanese-groups'>🔗</a>  
   
 The Walanese government, the Walanese emperor-in-exile, the Walanese Liberation Army, and The People's Republic of Wala are fighting a vicious four-war war.  "You're pretty sure one is a reasonable group of activists fighting off encroaching authoritarianism (but occasionally too violently), two are jack-booted thugs (which still raise legitimate issues about the ideology of their opposition), and the last is either a theocratic death cult or burn-it-all-down radical anarchists, but you can never remember which group is which."  
   
-#### DUK <a href='#duk' name='duk'>:link:</a>  
+#### DUK <a href='#duk' name='duk'>🔗</a>  
   
 An interstellar mining conglomerate with a number of operations, and as such a good deal of power, in the sector.  More formally, Dittberner-Underhill-Kruger.  Less formally, either The Duke or The Duck, depending on the speaker's level of respect.  
   
-## Transcript <a href='#transcript' name='transcript'>:link:</a>  
+## Transcript <a href='#transcript' name='transcript'>🔗</a>  
   
-### Chapter 1: The Crin'tiki Gambit, or: Fliit's Big Night <a href='#chapter-1' name='chapter-1'>:link:</a>  
+### Chapter 1: The Crin'tiki Gambit, or: Fliit's Big Night <a href='#chapter-1' name='chapter-1'>🔗</a>  
   
 **You're behind the control station of your ship, two hours out from the planet Kanaloa.  Why are you headed there?**  
 [A] This shipment of reverse-ratcheting rotors won't deliver itself  
@@ -239,7 +239,7 @@ _ncrecc: ohh don't want [to give up the ship], you just got the cargo upgrade. t
 **Three extremely painful weeks later, Big Susan is shaking your hand and telling you to get the hell out of her compound.  You're broke again, but at least you're squared away with one of the scarier women in the sector.**  
   
   
-### Chapter 2: Ice Ice Baby <a href='#chapter-2' name='chapter-2'>:link:</a>  
+### Chapter 2: Ice Ice Baby <a href='#chapter-2' name='chapter-2'>🔗</a>  
   
   
 **The time in Big Susan's compound wasn't a total loss.  (Some of her guards were getting really good at self-defense, for one thing.)  Also...**  
@@ -406,7 +406,7 @@ _[C] vinnie's ex-wife, an ice elemental (or something close to it).  She'd prefe
   
 **You eventually strike a deal: The University will pay 12,000 credits for everything except the robot and the coordinates of the excavation site; you also negotiate that you'll be specifically thanked in papers published based on analysis material over the next ten years.  You'll loan the robot to the university for further study, with an eye on translating its speech, and you'll give back 3,000 credits if they're able to refurbish it, get it into working order and install an English language mode.  You, Vinnie, and the Doctor gladly shake hands and sign the paperwork for the Bursar.**  
   
-### Chapter 3: The Case of the Misappropriated Funds <a href='#chapter-3' name='chapter-3'>:link:</a>  
+### Chapter 3: The Case of the Misappropriated Funds <a href='#chapter-3' name='chapter-3'>🔗</a>  
   
 **Teenu invites you and Vinnie to have dinner at her place.  The food is wonderful, but Teenu seems on edge through it all.  After the meal, she finally tells you that...**  
 [A] Char, her fire elemental ex, is trying to extort money from her  
@@ -739,7 +739,7 @@ _Panda: I'm inclined to go with C and just give him the ride per normal. I don't
   
 **The next day, the doctors decide you're well enough to discharge you.  You, Vinnie, and Jimbo then spend that afternoon and evening preparing a romantic meal for Killa and Maguaq, with many zany complications.  But after Vinnie's hat catches on fire, you disguise the fast-food tacos as haut cuisine, and Maguaq stands up to Killa's obnoxious ex, the two finally kiss.  It's sweet, even though you, Vinnie, and Jimbo are all high-fiving as it happens.**  
   
-### Chapter 4: The Cat's In The Cradle <a href='#chapter-4' name='chapter-4'>:link:</a>  
+### Chapter 4: The Cat's In The Cradle <a href='#chapter-4' name='chapter-4'>🔗</a>  
   
 **The day after that, you, Vinnie, and Jimbo set off for the Orion system.  With your upgraded engines, the trip should take a little over two days, leaving plenty of time for your and your father to talk, or to sit in awkward silence, whichever.  In bits and pieces, you get him to tell you what he's most interested in at this conference:**  
 [A] New advancements in personal shield technology, which he's hoping to license  
@@ -936,7 +936,7 @@ _[A], but also say that we discussed this with him before approaching Zhang_
   
 _Panda asks about our relationship with Jimbo going forward.  I say: "Jimbo doesn't hate you--he acknowledges that Zhang really had him over a barrel, and seems genuinely remorseful that you got pulled into this.  He offered to pay for the ship repairs, but you know that after trading away his entire business (and with you being relatively flush), he needs the money more than you do.  As for future plans, arms dealing is the only life he knows, and even after giving up his company he still has valuable contacts (suppliers that trust him and the like), so he's going to try to rebuild.  It'll be slow going, but he built his business up from nothing once before.  He's still interested in being your father if you'll let him into your life, but because he agreed not to do business in Zhang's territory he probably won't be in your neck of the woods very often (but the geography's pretty fuzzy and we can fudge that if need to)."_  
   
-### Chapter 5: Bad Times at Ramanujan Station <a href='#chapter-5' name='chapter-5'>:link:</a>  
+### Chapter 5: Bad Times at Ramanujan Station <a href='#chapter-5' name='chapter-5'>🔗</a>  
   
 **Fixing up your ship is more expensive than you expected; thanks to the windfall from the Pre-Zervian find, you're not wiped out completely, but it's close.  There's not much for you to do besides book another job.  The best option looks to be going to a frontier outpost station to deliver:**  
 [A] An up-and-coming band with a gig in the station's commissary  
