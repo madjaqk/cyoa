@@ -1060,3 +1060,28 @@ _[G] Stay silent, let the band take the lead / [B]_
 [C] Demand more information about the accident/situation on the station  
 [D] Say nothing, just watch where this goes.  
 [E] Something else  
+  
+_[C]_  
+  
+**"What type of accident?" you ask.**  
+  
+**Eventually Richard speaks up.  "We set up a detector to measure and catalogue the omicron particles coming out of the micropulsar.  It was fine for the first two weeks, but then... I don't know.  The readings went crazy.  Way higher levels than we've ever seen, maybe higher than should be possible.  And Dyrtle--she was the chief scientist--she assumed it was just a malfunction, so she tried to remove the casing to inspect the wiring, but, but--"  He can't finish the sentence.**  
+  
+**Lopez puts his hand on Richard's shoulder.  "It wasn't a malfunction," he says gently. "At least, not before she touched the inside of the machine.  There's no way she could've known, but her body acted as a...a kind of bridge, we think, for the radiation.  It spead through the titanium in the station's walls and floors, as far as we can tell.  Anyone who was directly touching it is...gone."**  
+  
+**"So, what," Chrissy asks, "now everyone's dead and you're being haunted?"**  
+  
+**No one answers (as has become customary for this lot), until Rocksteady says, "They might not be ghosts."**  
+  
+**"It doesn't matter what they are," Sandiego snaps.**  
+  
+**"But there really are...somethings...on the station now?" Nicky asks.  "I guess that explains what those are," and he points to the doors at the back of the commissary, where you see...You're not sure, exactly.**  
+  
+**They're transparent and a very light red, you can tell, roughly humanoid-shaped, but you can't make out anymore details.  They're kind of like the afterimages you see after staring at a light for too long, and just like those these things seem to disappear when you try to focus on them.  Their movements are herky-jerky, like when you watch someone through a strobe light.  They seem to be beating on a wall or maybe attempting to carve something into it, but just looking too long gives you a headache.**  
+  
+**Do you...**  
+[A] Run over and introduce yourself  
+[B] Run over and try to tackle them  
+[C] Pull out your blaster and start firing  
+[D] Hold your eyes closed and hope they'll go away  
+[E] Something else  
