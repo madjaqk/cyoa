@@ -1,0 +1,54 @@
+{
+    "saveAndRun": {
+        "commands": [
+            {
+                "match": "README\\.md",
+                "cmd": "python process.py",
+                "silent": true
+            }
+        ]
+    },
+    "cSpell.words": [
+        "Ethanicus",
+        "Ethanicus's",
+        "ncrecc",
+        "Akumu",
+        "Vinnie",
+        "Vinnie's",
+        "Ruamokan",
+        "Ruamokans",
+        "Valdman",
+        "Crin'tik",
+        "Crin'tiki",
+        "Crin'tik's",
+        "crintiki",
+        "Kanaloa",
+        "Kanaloan",
+        "Kanaloans",
+        "Fliit",
+        "Fliit's",
+        "Teenu",
+        "Zerv",
+        "Zervian",
+        "Zervians",
+        "Zervin",
+        "Zervinian",
+        "Zervinians",
+        "Vav'v",
+        "Postmessagarian",
+        "Postmessagarians",
+        "Antemessagarian",
+        "Antemessagarians",
+        "Antemessagarianism",
+        "Impartation",
+        "Wala",
+        "Walanese",
+        "klyxe",
+        "Nin'in'in",
+        "Nin'in'in's",
+        "subwave",
+        "commenters",
+        "Jimbo"
+
+    ]
+}

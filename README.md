@@ -4,7 +4,7 @@
   
 I've been running a Choose Your Own Adventure-style game on Discord.  
   
-"Official" story pieces are in text blocks.  Things in italics are either audience responses or answers to questions that don't quite fit into the narrative (usually me clarifying something).  
+"Official" story pieces are in bold.  Things in italics are either audience responses or answers to questions that don't quite fit into the narrative (usually me clarifying something).  
   
 Things I wrote are usually in bold; responses from the audience are in italics or out-of-character clarifications are in italics.  
   
@@ -48,7 +48,7 @@ I don't think I ever said this explicitly, but they're insectoid.  Coffee makes 
   
 Rock monsters.  Have more sensitive hearing than humans and less affected by ambient cold.  
   
-#### Pre-Zervians <a href='#pre-zervians' name='pre-zervians'>🔗</a>  
+#### Pre-Zervinians <a href='#pre-zervinians' name='pre-zervinians'>🔗</a>  
   
 Cat people.  Apparently they wiped themselves out in a war thousands of years ago.  Had advanced robot technology.  
   
@@ -326,7 +326,6 @@ _[B]_
 _ncrecc asks: Is Vinnie slower than you?  Answer: Normally yes, but you're wearing bulky cold weather clothes while he can handle the climate basically unencumbered, so you're not sure._  
   
 _Commenters decide to offer the lizard some food_  
-  
   
 **Slowly, fearing that a sudden movement will cause the lizard to attack, you remove your pack and reach inside, pulling out a few energy bars.  You toss them a few feet ahead of the beast.  It steps forward, gives them a sniff, then grabs them with its mouth and skitters back under the debris.  You're safe, for now, but also hungry.  You and Vinnie resume searching the ruins, but only the area nearest the door, as you try very hard not to think about the various noises you now can't help but hear.**  
   
@@ -1084,4 +1083,25 @@ _[C]_
 [B] Run over and try to tackle them  
 [C] Pull out your blaster and start firing  
 [D] Hold your eyes closed and hope they'll go away  
+[E] Something else  
+  
+_[A] (from a distance)_  
+  
+**You stand to approach the shapes and Sandiego suddenly grabs your arm.  "Don't let them get too close," she hisses, and you assure her you won't.**  
+  
+**From about twenty feet away, you announce, "Hello there, fellows!  My name's Ethanicus!  What can I call you?"  The shapes don't seem to respond, but now that you're a little closer and coming for a different angle, you can see that whatever they're doing is having a slight effect on the wall.  You can see a series of identations that seem to be forming the numerals 1 and 9, with a shape nearly finished making a 2.  Another shape seems to be drawing a particle diagram.  At least, you think that's what it's doing; being closer to the shapes doesn't make them easier to look at, and your head is swimming.  You turn back, both to ask the crew what this could mean and so that you don't have to keep looking at them, but before you can say anything, you hear Lopez ask, "Didn't, uh, didn't there used to be five of you?"**  
+  
+**You look at the table.  Vinnie isn't there.**  
+  
+**"Vinnie?  Vinnie?!" you cry frantically.**  
+  
+**"Don't bother," Klob-Galob says.  "If they took him, he's not coming back."**  
+  
+**Sandiego looks sharlpy at Lopez.  "You see why we need to go ASAP?  If Ethanicus is taken too, there's no way we can get out of this hellhole.  Unless you scheduled _another_ band to come in tomorrow."**  
+  
+**Lopez looks too beaten down to say anything.  Do you:**  
+[A] Say, "No.  I'm not leaving here without Vinnie."  
+[B] Say, "Sandiego's right.  We've wasted too much time already."  
+[C] Dive toward the shapes, screaming, "I'm coming, Vinnie!"  
+[D] Pull your blaster out and point it at the shapes.  "Bring Vinnie back now, or I start shooting!"  
 [E] Something else  
