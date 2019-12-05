@@ -931,7 +931,7 @@ _[A], but also say that we discussed this with him before approaching Zhang_
   
 **Jimbo wasn't receptive when you first suggested this, but you made your case.  "Zhang has all the leverage now.  Best case is, what, you take out two of his men, then he comes back with reinforcements?  We make it off the planet and he just hits you again, harder?"  Your father has to reluctantly concede the point.**  
   
-**Zhang agrees on what condition--it's an acquisition, not a merger, and Jimbo doesn't have a place in the organization afterwards.  "After what he pulled, I couldn't trust him."  And so you, Zhang, and Jimbo are eventually able to negotiate a deal: Jimbo gives back what he stole, his current holdings, and his employees.  Jimbo will keep his company ship and try to rebuild his business, provided he doesn't sell in this or any neighboring sector for five years.  "As far as I'm concerned, you're klyxe shit," Zhang says, "and I'll tell anyone who'll listen.  But if you can build yourself back up after this, more power to you."  He also agrees to contact your insurance company and have them send a repair ship, which arrives a day after Zhang leaves.**  
+**Zhang agrees on one condition--it's an acquisition, not a merger, and Jimbo doesn't have a place in the organization afterwards.  "After what he pulled, I couldn't trust him."  And so you, Zhang, and Jimbo are eventually able to negotiate a deal: Jimbo gives back what he stole, his current holdings, and his employees.  Jimbo will keep his company ship and try to rebuild his business, provided he doesn't sell in this or any neighboring sector for five years.  "As far as I'm concerned, you're klyxe shit," Zhang says, "and I'll tell anyone who'll listen.  But if you can build yourself back up after this, more power to you."  He also agrees to contact your insurance company and have them send a repair ship, which arrives a day after Zhang leaves.**  
   
 _Panda asks about our relationship with Jimbo going forward.  I say: "Jimbo doesn't hate you--he acknowledges that Zhang really had him over a barrel, and seems genuinely remorseful that you got pulled into this.  He offered to pay for the ship repairs, but you know that after trading away his entire business (and with you being relatively flush), he needs the money more than you do.  As for future plans, arms dealing is the only life he knows, and even after giving up his company he still has valuable contacts (suppliers that trust him and the like), so he's going to try to rebuild.  It'll be slow going, but he built his business up from nothing once before.  He's still interested in being your father if you'll let him into your life, but because he agreed not to do business in Zhang's territory he probably won't be in your neck of the woods very often (but the geography's pretty fuzzy and we can fudge that if need to)."_  
   
@@ -1105,3 +1105,51 @@ _[A] (from a distance)_
 [C] Dive toward the shapes, screaming, "I'm coming, Vinnie!"  
 [D] Pull your blaster out and point it at the shapes.  "Bring Vinnie back now, or I start shooting!"  
 [E] Something else  
+  
+_[A]_  
+  
+**You return to the table.  "Lopez, you said that our ship could help fix things.  What did you mean?"**  
+  
+**"Well, Richard would have to explain the science of it, but the idea is that we could reverse the omicron flow--bring everyone back--provided we had a powerful enough source of polarized discharge.  I'm assuming your ship has an ion engine?"  You nod.  "Fantastic!  How long would it take you to get set up, Richard?"**  
+  
+**"Maybe 12 hours to assemble the components," the scientist answers.  "But there are still some...questions.  If our value for the omicron mass is off, for instance, everything could, well...explode."**  
+  
+**"This is crazy," Xyxkyd says.  "We don't even know that the rest of the crew is still alive, and you want to risk killing all of us?"**  
+  
+**"D--d--don't even know if they're alive?!" Lopez sputters.  "But--what do you think _they_ are?" he sweeps his hand in the direction of the shapes.**  
+  
+**"I don't know," she answers.  "Creatures from the pulsar?  Time-displaced shadows?!  A collective delusion?!!"**  
+  
+**"Ghosts," Rocksteady says.  Everyone else at the table scowls, but Xyxkyd keeps going.**  
+  
+**"Yeah, sure, ghosts.  Anything except all of our friends, sitting there, perfectly fine, waiting for you to be the big damn hero and _not_ have fucked everything up to start with!"**  
+  
+_Panda: >Slam fists on table. "SHUT. UP. I don't care how this happened, I don't care who's at fault, but I know that my best friend is depending on me, and by extension you. He saved my life and I'm not going to abandon him. Now I don't know if you superstitious morons have noticed but if you can get over the mild headache caused by looking at these... forms, they are TRYING TO COMMUNICATE WITH US."_  
+  
+**Well, that got their attention.  "Communicate?  No, that's not-- that's not--," Xyxkyd mutters.**  
+  
+**"See for yourself," you say, and bring them around to where you were standing before.  It appears that whatever the shapes were writing, they've finished now; they seem to be standing still, watching all of you.**  
+  
+**Richard reacts immediately to the diagram.  "That looks like an omicron particle, but it's 6-chiral, not 4--that would explain the variable waveforms we've seen, at least.  And then, 192.7 is reasonable for the mass, a little outside current estimates, but plausible with this other structure..."**  
+  
+**Lopez immediately latches on.  "This has to be proof they're OK, doesn't it?  This has to be Dyrtle, giving you the data you need to pull off your plan."**  
+  
+**The rest of the crew seems hesitant.  "What does this change?" Xyxkyd asks.  "We're still in danger, aren't we?"**  
+  
+**Sandiego immediately shuts her down.  "It means everyone else is still alive, and we have an obligation to get them back."  She looks Lopez in the eyes.  "I'm sorry, Commander.  I didn't think it was actually possible..."**  
+  
+**Richard lays out what needs to be done.  With the help of the engineers, he'll spend the next several hours retrofitting the particle detector to reverse the effects.  About an hour before go time, you'll run your engines immediately outside the laboratory, creating enough ambient polarization to kickstart the process.  "But don't have the engine on when we flip the switch," Richard tells you.  "That could be...messy."**  
+  
+**"And we'll play some groovy tunes while you work!" Nicky says.**  
+  
+**"I'm not really sure that's necessary," Lopez says, but Nicky insists.**  
+  
+**You can't say the Rolling Stones music helps, necessarily, but it doesn't hurt.  It's good to see the station's crew working together, acting like people who trust each other for once.  You do your part, running your engine outside the lab for 45 minutes before re-docking and heading inside for the big moment.**  
+  
+**"All right, detector is powering on," Richard says.  "Ready to initiate omicron flow reversal in 5, 4, 3, 2, 1--"**  
+  
+**There's a lot of noise and the lights flicker, add then suddenly the room is rather more crowded than before, as about a dozen bodies materialize then collapse to the floor.  "Dyrtle!" Lopez shouts, and runs to an Altairi woman, helping her back to her feet.**  
+  
+**"Wait, this...this isn't right," she gasps.  "We need...we need to--" The exertion is too much, and she collapses again, losing consciousness**  
+  
+**Klob-Galob gives her a one-over.  "No obvious injuries, no signs of internal bleeding," they say.  "Probably just an effect of the phasal shift.  Help me get Dyrtle and the rest to the infirmary."**  
