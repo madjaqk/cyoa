@@ -1150,6 +1150,34 @@ _Panda: >Slam fists on table. "SHUT. UP. I don't care how this happened, I don't
   
 **There's a lot of noise and the lights flicker, add then suddenly the room is rather more crowded than before, as about a dozen bodies materialize then collapse to the floor.  "Dyrtle!" Lopez shouts, and runs to an Altairi woman, helping her back to her feet.**  
   
-**"Wait, this...this isn't right," she gasps.  "We need...we need to--" The exertion is too much, and she collapses again, losing consciousness**  
+**"Wait, this...this isn't right," she gasps.  "We need...we need to--" The exertion is too much, and she collapses again, losing consciousness.**  
   
 **Klob-Galob gives her a one-over.  "No obvious injuries, no signs of internal bleeding," they say.  "Probably just an effect of the phasal shift.  Help me get Dyrtle and the rest to the infirmary."**  
+  
+**It's apparent that the infirmary isn't yet equipped to handle this many wounded, so everyone after Dyrtle and a few others are placed on the tables in the commissary.  On the plus side, the crew reports that they've recovered every missing person, including Vinnie.  However, none of them are awake.  Klob-Galob is in the infirmary, running tests.  "What we're seeing is consistent with known effects of omicron particle explosure," they explain to Lopez and Sandiego, "but at the levels they were exposed to, we really don't know what to expect.  The only outlier I'm seeing is that there's much more mental activity than we'd expect from the unconscious."**  
+  
+**"Can you wake them?" Lopez asks.**  
+  
+**"We have some cortical stimulants that might help," they answer, "but not enough for everyone."  They look at you.  "And, uh, nothing that should affect Ruamokan physiology.  Sorry."**  
+  
+**You expected Dyrtle to bolt upright as soon as the drug's administered, but nothing so dramatic.  She slowly opens her eyes, but before she says anything, Lopez reassures her.  "Don't panic.  You're OK."**  
+  
+**She glances around the room the room and, with effort, rasps out, "Where...?"**  
+  
+**Lopez speaks soothingly.  "You're on Ramanujan Station.  There was an accident, but you're safe now."**  
+  
+**"Why...?"**  
+  
+**"The omicron paricles interfered with the detector and the station's titanium shell...somehow.  Richard would know the details.  Do you want to speak to him?"**  
+  
+**She shakes her head slightly.  "No, I mean...why...why..." but she doesn't finish the sentence, instead just exhaling deeply and staring at the cieling.**  
+  
+**"We shouldn't strain her too much, Commander," Klob-Galob says.  "But for now, I need to tend to her," and they shoo you all out of the infirmary.**  
+  
+**Neeing something to do, you decide to...**  
+[A] Talk to Richard  
+[B] Talk to Rocksteady and Xyxkyd  
+[C] Talk to the Rolling Stones  
+[D] Stand vigil over Vinnie in the commissary  
+[E] Prepare your ship to depart ASAP  
+[F] Something else  
