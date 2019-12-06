@@ -25,6 +25,8 @@ for line in lines:
             if head_match:
                 line += anchor_with_link.format(head_match.group("heading").lower())
 
+    line = re.sub(r"\s+\*\*\s*$", "**  ", line)
+
     if not line.endswith("  "):
         line += "  "
 
