@@ -1181,3 +1181,22 @@ _Panda: >Slam fists on table. "SHUT. UP. I don't care how this happened, I don't
 [D] Stand vigil over Vinnie in the commissary  
 [E] Prepare your ship to depart ASAP  
 [F] Something else  
+  
+_[D]_  
+  
+**You head to the commissary to wait for Vinnie to wake up.  You're not alone--Rocksteady is also here, watching over a woman.  "Her name's Candace," she says, but doesn't offer any more details.  You understand and don't press the issue.**  
+  
+**Minutes turn to hours, and eventually drift into awkward, uncomfortable sleep in one of the commissary chairs.  You're not sure how long you've been out when you're roused by the sounds of someone moaning.  It's not Vinnie, and a quick glance to Rocksteady reveals it's not Candace.  You then see that it's coming from a Walanese person roughly between you two, who's sat up but is now cradling their head in their hands.  "Shab-Tinbad, are you OK?" Rocksteady asks.**  
+  
+**Shab-Tinbad stops moaning and looks over at her.  "Rocksteady?  But--what happened to the light?  Where's the light?!"  As they cry out louder, you hear noise of movement; several of the sleepers--including Candace but not yet Vinnie--have been woken by this noise, and one by one their voices join the rhythmic chant.  "The light!  The light!"**  
+  
+**You rush into the hall to find help and are met by Lopez, Sandiego, Richard, and Xyxkyd, all summoned to the commissary by the ruckus.  You fill them in on what you know, which isn't much.  Sandiego strides to the center of the commissary.  "Hey, hey!" she shouts, clapping her hands for emphasis.  "Quiet!"   It works--everyone stops to look at her.  She faces a young engineer close to her.  "Avenatti," she demands, "what is all this about?"**  
+  
+**Avenatti looks sheeping; he clearly didn't expect to be speaking for the crowd.  "Well, you know," he kind of mumbles, "we've been in the light..." Someone in the crowd tries to start another "The light!" chant, and Sandiego just glares.  "Uh, as I was saying," Avenatti continues, "we had this plan to bring you all into the light, to share its beauty, and then we'd bring the rest of the sector, but I guess, uh... Where's Dyrtle?  She's much better at explaining it."  The crowd murmurs in assent.**  
+  
+**Lopez takes out his subwave.  "Klob-Galob, is Dyrtle still awake?  We have some questions for her."  There's no response.  "Klob-Galob?  Wake up, Klob."**  
+  
+**Do you...**  
+[A] Demand more information from Avenatti  
+[B] Rush to the infirmary to find Klob-Galob  
+[C] Something else  
