@@ -1200,3 +1200,24 @@ _[D]_
 [A] Demand more information from Avenatti  
 [B] Rush to the infirmary to find Klob-Galob  
 [C] Something else  
+  
+_[B]_  
+  
+**You grab Richard and run to the infirmary, where you find Klob-Galob sprawled across the floor, blood matting the hain on the back of their head.  "They're still breathing," you say, and with Richard's help you roll Klob-Galob to be face up.  While you look around for smelling salts or anything similar, Richard opts for a direct approach, slapping them in the face and shouting and them to wake up.**  
+  
+**"Wuh...what?" Klob-Galob sputters, then takes a second to reorient themselves.  "Dyrtle...attacked me..." they say.  "She wants to recreate the accident, pull everyone into, uh, 'The Realm of Light', I think?  You've got to stop her."**  
+  
+**"The lab!" Richard shouts, and you're off again, leaving Klob-Galob to tend to their wounds.**  
+  
+**The door to the lab is barricaded, but Dyrtle seems unconcerned when you break it down.  "Oh, Richard," she says, not paying either of you much mind, "you're just in time.  Can you hand me a roto-spanner?"  She has the particle detector open and is in the process of rewriting it.**  
+  
+**Richard is agog.  "If we get another omicron surge, with those inhibitors disabled, half the sector will be affected!"**  
+  
+**Dyrtle looks vaguely annoyed.  "Right, and the micropulsar will be in alignment again any minute now, so could you please HAND ME A ROTO-SPANNER?!"  The ire evaporates as quickly as it came.  "Never mind, I got it," she says.**  
+  
+**Do you...**  
+[A] Try to tackle Dyrtle to stop her  
+[B] Try to sabotage the machine  
+[C] Get Dyrtle talking about her plan  
+[D] Offer to help with Dyrtle's modifications  
+[E] Something else  
