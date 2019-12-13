@@ -1221,3 +1221,20 @@ _[B]_
 [C] Get Dyrtle talking about her plan  
 [D] Offer to help with Dyrtle's modifications  
 [E] Something else  
+  
+_[C]_  
+  
+**"So, what's this about the light?" you ask, trying to play it nonchalant.**  
+  
+**"The light is...well, it's magical."  Dyrtle stops working, caught in reverie.  "There's a feeling of harmony, that things are as they should be.  And I want to share that bliss with everyone."**  
+  
+**"So you gave us the particle mass and topography so we could join you?" Richard asks.**  
+  
+**"Of course.  But instead you, you...tore us out of the light, and, and, and I NEED TO GET BACK, so why don't you just HELP ME GET BACK."**  
+  
+**Do you...**  
+[A] Try to tackle Dyrtle to stop her  
+[B] Try to sabotage the machine  
+[C] Try to talk her out of this  
+[D] Offer to help with Dyrtle's modifications  
+[E] Something else  
