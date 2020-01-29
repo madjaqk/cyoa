@@ -1238,3 +1238,21 @@ _[C]_
 [C] Try to talk her out of this  
 [D] Offer to help with Dyrtle's modifications  
 [E] Something else  
+  
+_[D] (clarified to mean as a feint)_  
+  
+"Of course, of course," you say, as soothingly as possible.  "What do you need?"  
+  
+Dyrtle's composure again changes on a dime.  "Great!  Can you realign the phase couplers while I adjust the dampening field?"  She hands you a positron gauge and a screwdriver, then turns her back to you, working on the dampening field with the roto-spanner.  Knowing an opportunity when you see one, you whack her on the head with the guage, which makes a satisfying thunk, and her body collapses.  
+  
+"Lights out," you say, and look over at Richard to make sure he heard you say that cool thing.  He just looks distressed, though.  
+  
+"Uh, she's Altairi," he says.  "That's not where her brain is."  
+  
+And just as you've processed this, Dyrtle tackles you, pinning you to the ground, her hands are around your neck.  "Why won't you just COME INTO THE LIGHT?!" she yells.  "EVERYTHING could be SO WONDERFUL and YOU'RE--RUNINING--IT!"  
+  
+Richard seems frozen, but you manage to gasp out, "Turn off...the machine," which is enough to unstick his mind.  You and Dyrtle are currently between him and the detector's emergency shutdown switch, but before he can juke past you, she lets go and stands to stop him, baring her fangs, and she slashes him with her bladed arm.  She's about to run him through when you stab her in the head with the screwdriver.  It won't be fatal (you hope), but judging from her scream, it hurts like hell.  
+  
+You grab her from behind, locking her arms, and drag her away, just far enough for Richard to have space to engage the detector's emergency shutdown.  "Why?  Why?" Dyrtle screams and sobs, but before she can shake herself loose Richard is back.  He jumps, putting the full force of his landing on her left foot, and you can feel the scientist go limp.  
+  
+"That's where her goddamn brain is!" he shouts, but his wounds are starting to catch up with him.  "I should, uh, probably see a doctor."  Staggering, trying to support his weight while also dragging Dyrtle, you make your way to the infirmary.  
