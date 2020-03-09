@@ -247,7 +247,7 @@ _ncrecc: ohh don't want [to give up the ship], you just got the cargo upgrade. t
 [B] You overheard whispers of one of Big Susan's upcoming scores, which you're sure the police would be interested in  
 [C] You overheard whispers of one of Big Susan's upcoming scores, which you're sure the _other_ criminal kingpins in the sector would be interested in  
 [D] One of the security guards sold you a treasure map  
-[E] You stole the codes for some of Big Susan's many illicit  bank accounts, which you can use once enough time has passed  
+[E] You stole the codes for some of Big Susan's many illicit bank accounts, which you can use once enough time has passed  
 [F] Something else  
   
 _[D]_  
@@ -339,7 +339,7 @@ _Commenters decide to offer the lizard some food_
   
 _[B]_  
   
-**You rig up the connection to the ship's power supply and activate it.  Amazingly, it seems to work: A few of the lights on the robot's case flicker on, and you can hear grinding inside as long-dormant electronics return to life.  After a few minutes, a warbly, distorted fanfare plays.  The robot rotates slightly, until (you assume) it's looking at you, and it says, "▬◦▨✜✃▯".  (You assume it's speech, as a light, approximately where a both would be, flickers in time with the sounds.)  You respond...**  
+**You rig up the connection to the ship's power supply and activate it.  Amazingly, it seems to work: A few of the lights on the robot's case flicker on, and you can hear grinding inside as long-dormant electronics return to life.  After a few minutes, a warbly, distorted fanfare plays.  The robot rotates slightly, until (you assume) it's looking at you, and it says, "▬◦▨✜✃▯".  (You assume it's speech, as a light, approximately where a mouth would be, flickers in time with the sounds.)  You respond...**  
 [A] "My name is Ethanicus.  What should I call you?"  
 [B] "Robot, obey me!"  
 [C] "Begin diagnostic mode."  
@@ -413,7 +413,7 @@ _[C] vinnie's ex-wife, an ice elemental (or something close to it).  She'd prefe
 [C] She's heard rumors that someone in the university administration has been embezzling funds, and the school's on the brink of collapse  
 [D] Her baby sister, Tunee, has joined the True Devotees of the Laughing God (the much less popular, much more cult-like Crin'tiki church)  
 [E] Something else  
-...and she could really use your and Vinnie's help  
+**...and she could really use your and Vinnie's help**  
   
 _[C]_  
   
@@ -446,7 +446,7 @@ _[B]_
   
 **"As you're certainly aware, under my leadership, North Zerv University is spearheading a radical restructuring of the university qua university.  Our model is built around the pinnacle virtues of 1) greater faculty output, 2) enhanced student experience, and 3) corporate partnership.  We ask everyone, students and teachers alike, to contribute to solving real-world problems; for example, DUK is working with a team of our geology undergraduates to improve their ore detection process.  It's win-win-win: The students get actual experience, DUK gets better results, and NZU is paid a percentage of any revenue earned by patents filed as a result of our research."**  
   
-**K'Sokher goes on to describe how her time with Altair Pharmaceuticals inspired her believe that universities could be run more efficiently, spends a bit of time running down her predecessor, Balivilmiktorgrunnedisa, for his "ivory tower mentality" and lack of interest in the bottom line, talks about the 600 new units of luxury dormitories under construction (expected to be open to students within 6 years), and boasts that she's been able to achieve all of this "despite the opposition of some entrenched stakeholders who--I shouldn't say this, but, frankly, they're fat and happy after getting a free ride for the last several decades and don't want to accept that the world has changed."**  
+**K'Sokher goes on to describe how her time with Altair Pharmaceuticals inspired her belief that universities could be run more efficiently, spends a bit of time running down her predecessor, Balivilmiktorgrunnedisa, for his "ivory tower mentality" and lack of interest in the bottom line, talks about the 600 new units of luxury dormitories under construction (expected to be open to students within 6 years), and boasts that she's been able to achieve all of this "despite the opposition of some entrenched stakeholders who--I shouldn't say this, but, frankly, they're fat and happy after getting a free ride for the last several decades and don't want to accept that the world has changed."**  
   
 _Around here, I change the interface for this incredibly talky chapter.  I would provide a list of things to possibly ask about (more or less anything that's come up in the text, plus people were encouraged to ask about anything else I didn't think of) as well as other people they could try talking to.  For example:_  
   
@@ -730,7 +730,9 @@ _Panda: I would see what some others want to do but I would say let's be cold an
 [B] "There's not a chance, Dad."  
 [C] Something else  
   
-_Panda: I'm inclined to go with C and just give him the ride per normal. I don't see any reason to gouge him if it's a simple passenger deal. But I want to cut it with a remark about how we know that even if we didn't give him the ride, "someone else would".  Also, people want to tie up the loose ends in the story before we move on._  
+_Panda: I'm inclined to go with C and just give him the ride per normal. I don't see any reason to gouge him if it's a simple passenger deal. But I want to cut it with a remark about how we know that even if we didn't give him the ride, "someone else would"._  
+  
+_Also, people want to tie up the loose ends in the story before we move on._  
   
 **"What about Nelmari's story?" you ask Vinnie.**  
   
@@ -1076,7 +1078,7 @@ _[C]_
   
 **"But there really are...somethings...on the station now?" Nicky asks.  "I guess that explains what those are," and he points to the doors at the back of the commissary, where you see...You're not sure, exactly.**  
   
-**They're transparent and a very light red, you can tell, roughly humanoid-shaped, but you can't make out anymore details.  They're kind of like the afterimages you see after staring at a light for too long, and just like those these things seem to disappear when you try to focus on them.  Their movements are herky-jerky, like when you watch someone through a strobe light.  They seem to be beating on a wall or maybe attempting to carve something into it, but just looking too long gives you a headache.**  
+**They're transparent and a very light red, you can tell, roughly humanoid-shaped, but you can't make out any more details.  They're kind of like the afterimages you see after staring at a light for too long, and just like those these things seem to disappear when you try to focus on them.  Their movements are herky-jerky, like when you watch someone through a strobe light.  They seem to be beating on a wall or maybe attempting to carve something into it, but just looking too long gives you a headache.**  
   
 **Do you...**  
 [A] Run over and introduce yourself  
@@ -1186,7 +1188,7 @@ _[D]_
   
 **You head to the commissary to wait for Vinnie to wake up.  You're not alone--Rocksteady is also here, watching over a woman.  "Her name's Candace," she says, but doesn't offer any more details.  You understand and don't press the issue.**  
   
-**Minutes turn to hours, and eventually drift into awkward, uncomfortable sleep in one of the commissary chairs.  You're not sure how long you've been out when you're roused by the sounds of someone moaning.  It's not Vinnie, and a quick glance to Rocksteady reveals it's not Candace.  You then see that it's coming from a Walanese person roughly between you two, who's sat up but is now cradling their head in their hands.  "Shab-Tinbad, are you OK?" Rocksteady asks.**  
+**Minutes turn to hours, and eventually you drift into awkward, uncomfortable sleep in one of the commissary chairs.  You're not sure how long you've been out when you're roused by the sounds of someone moaning.  It's not Vinnie, and a quick glance to Rocksteady reveals it's not Candace.  You then see that it's coming from a Walanese person roughly between you two, who's sat up but is now cradling their head in their hands.  "Shab-Tinbad, are you OK?" Rocksteady asks.**  
   
 **Shab-Tinbad stops moaning and looks over at her.  "Rocksteady?  But--what happened to the light?  Where's the light?!"  As they cry out louder, you hear noise of movement; several of the sleepers--including Candace but not yet Vinnie--have been woken by this noise, and one by one their voices join the rhythmic chant.  "The light!  The light!"**  
   
@@ -1209,7 +1211,7 @@ _[B]_
   
 **"The lab!" Richard shouts, and you're off again, leaving Klob-Galob to tend to their wounds.**  
   
-**The door to the lab is barricaded, but Dyrtle seems unconcerned when you break it down.  "Oh, Richard," she says, not paying either of you much mind, "you're just in time.  Can you hand me a roto-spanner?"  She has the particle detector open and is in the process of rewriting it.**  
+**The door to the lab is barricaded, but Dyrtle seems unconcerned when you break it down.  "Oh, Richard," she says, not paying either of you much mind, "you're just in time.  Can you hand me a roto-spanner?"  She has the particle detector open and is in the process of rewiring it.**  
   
 **Richard is agog.  "If we get another omicron surge, with those inhibitors disabled, half the sector will be affected!"**  
   
@@ -1241,18 +1243,42 @@ _[C]_
   
 _[D] (clarified to mean as a feint)_  
   
-"Of course, of course," you say, as soothingly as possible.  "What do you need?"  
+**"Of course, of course," you say, as soothingly as possible.  "What do you need?"**  
   
-Dyrtle's composure again changes on a dime.  "Great!  Can you realign the phase couplers while I adjust the dampening field?"  She hands you a positron gauge and a screwdriver, then turns her back to you, working on the dampening field with the roto-spanner.  Knowing an opportunity when you see one, you whack her on the head with the guage, which makes a satisfying thunk, and her body collapses.  
+**Dyrtle's composure again changes on a dime.  "Great!  Can you realign the phase couplers while I adjust the dampening field?"  She hands you a positron gauge and a screwdriver, then turns her back to you, working on the dampening field with the roto-spanner.  Knowing an opportunity when you see one, you whack her on the head with the guage, which makes a satisfying thunk, and her body collapses.**  
   
-"Lights out," you say, and look over at Richard to make sure he heard you say that cool thing.  He just looks distressed, though.  
+**"Lights out," you say, and look over at Richard to make sure he heard you say that cool thing.  He just looks distressed, though.**  
   
-"Uh, she's Altairi," he says.  "That's not where her brain is."  
+**"Uh, she's Altairi," he says.  "That's not where her brain is."**  
   
-And just as you've processed this, Dyrtle tackles you, pinning you to the ground, her hands are around your neck.  "Why won't you just COME INTO THE LIGHT?!" she yells.  "EVERYTHING could be SO WONDERFUL and YOU'RE--RUNINING--IT!"  
+**And just as you've processed this, Dyrtle tackles you, pinning you to the ground, her hands are around your neck.  "Why won't you just COME INTO THE LIGHT?!" she yells.  "EVERYTHING could be SO WONDERFUL and YOU'RE--RUNINING--IT!"**  
   
-Richard seems frozen, but you manage to gasp out, "Turn off...the machine," which is enough to unstick his mind.  You and Dyrtle are currently between him and the detector's emergency shutdown switch, but before he can juke past you, she lets go and stands to stop him, baring her fangs, and she slashes him with her bladed arm.  She's about to run him through when you stab her in the head with the screwdriver.  It won't be fatal (you hope), but judging from her scream, it hurts like hell.  
+**Richard seems frozen, but you manage to gasp out, "Turn off...the machine," which is enough to unstick his mind.  You and Dyrtle are currently between him and the detector's emergency shutdown switch, but before he can juke past you, she lets go and stands to stop him, baring her fangs, and she slashes him with her bladed arm.  She's about to run him through when you stab her in the head with the screwdriver.  It won't be fatal (you hope), but judging from her scream, it hurts like hell.**  
   
-You grab her from behind, locking her arms, and drag her away, just far enough for Richard to have space to engage the detector's emergency shutdown.  "Why?  Why?" Dyrtle screams and sobs, but before she can shake herself loose Richard is back.  He jumps, putting the full force of his landing on her left foot, and you can feel the scientist go limp.  
+**You grab her from behind, locking her arms, and drag her away, just far enough for Richard to have space to engage the detector's emergency shutdown.  "Why?  Why?" Dyrtle screams and sobs, but before she can shake herself loose Richard is back.  He jumps, putting the full force of his landing on her left foot, and you can feel the scientist go limp.**  
   
-"That's where her goddamn brain is!" he shouts, but his wounds are starting to catch up with him.  "I should, uh, probably see a doctor."  Staggering, trying to support his weight while also dragging Dyrtle, you make your way to the infirmary.  
+**"That's where her goddamn brain is!" he shouts, but his wounds are starting to catch up with him.  "I should, uh, probably see a doctor."  Staggering, trying to support his weight while also dragging Dyrtle, you make your way to the infirmary.**  
+  
+**You, Richard, and Klob-Galob are able to get Dyrtle into restraints before she wakes, leaving the crew plenty of time to decide what to do about her.  You head back to the commissary to check in on everyone else.  The returned crewmembers seem more embarrassed than anything.  As Sandiego summarizes it, they all felt some form of euphoric haze while they were in the "light", but Dyrtle, maybe because she was at the center of the original accident or maybe due to some quirk of the Altairi neurology, was the most fanatical, insisting that they work to spread the joy to others.  There's awkward rustling as the people around you wake, stand and slowly head back to their quarters.  You take your seat beside Vinnie again and wait.  A few minutes later, he starts to stir.**  
+  
+**"Vinnie?"**  
+  
+**"Hey buddy," he says weakly.**  
+  
+**You start to tell him how worried you were, but he cuts you off.  "You shoulda known you wouldn't get rid of me that easily."**  
+  
+**As you help him to his feet, you ask what it was like, "in the light" or whereever he was.  "It was OK, I guess," he says.  "Blissful, yeah, but it wasn't that great.  After all, you weren't there."**  
+  
+**You and Vinnie seek out Commander Lopez to ask him what's next.  "I'll write up a message for you to pass to Department of Expansion asking for new orders," he tells you.  "The Department of Expansion will order us home and send out a new crew, I assume.  But until we get the new orders, all we can do is continue setting up the station as before.  Now that we know what to expect from the micropulsar, we can be more careful.  I hope."**  
+  
+**Mick Jagged overhears this.  "Back to business as usual, eh?  Great!  We were supposed to be on stages hours ago."**  
+  
+**"Wait, no--" Lopez stammers.  "Now doesn't seem like--"**  
+  
+**"Oi," Nicky says sharply.  "The Rolling Stones haven't missed a gig before, and we're not going to start now, mate."  He looks over at you and Vinnie.  "Help us get our gear from the ship?"**  
+  
+**You have to say, they really blow the roof off the place.**  
+  
+**After the show and some much needed sleep, you and Vinnie take off from the station with Lopez's message in hand and an agreement to come back in five days to retrieve the Rolling Stones, unless the DoE sends someone first.  When you're finally close enough to civilization, you send the message along, and see that you have a new message waiting, from a surprising source:  Fliit, the member of Crin'tik's Synod of 36 that you met a few months (and adventures) back.  "Hey guys!  What's up?  I saw you two uncovered some major scandal a university, that must have been exciting.  Anyway, you know those Pre-Zervinian artifacts you found?  One of the clerics here says that prove the Antemessagarians are correct, and the planet's about to erupt in holy war, so if you could just tell everyone that you made it all up, that'd be great.  Talk to you soon, byeeeeeee!"**  
+  
+**END OF PART ONE**  
